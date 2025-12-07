@@ -1,0 +1,10 @@
+74589632;Ana Pérez;3
+70234111;Luis Gómez;1
+73852049;María Torres;2
+70123456;José Ramírez;3
+70987654;Lucía Fernández;2
+71234567;Carlos Huamán;1
+75678901;Rosa Quispe;3
+73456789;Diego Sánchez;2
+72233445;Elena Rodríguez;1
+79876543;Javier Castro;2

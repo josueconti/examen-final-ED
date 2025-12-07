@@ -1,0 +1,5 @@
+21107347, Pedro Garcia, 34, Hipertension
+47488753, Mateo Perez, 45, Diabetes
+52478928, Anastacia Lopez, 29, Asma
+33248978, Toledo Ruiz, 60, Artritis
+74657898, Dializ Diaz, 12, Fracturaa

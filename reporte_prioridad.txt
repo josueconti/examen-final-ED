@@ -1,0 +1,11 @@
+70123456;José Ramírez;3
+70234111;Luis Gómez;1
+70987654;Lucía Fernández;2
+71234567;Carlos Huamán;1
+72233445;Elena Rodríguez;1
+73456789;Diego Sánchez;2
+73852049;María Torres;2
+74589632;Ana Pérez;3
+75678901;Rosa Quispe;3
+79876543;Javier Castro;2
+TOTAL_PACIENTES_REPORTE:10
